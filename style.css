@@ -1,0 +1,75 @@
+
+
+
+.btn-connexion {
+		padding:10px;
+		background-color: blue;
+		color: white;
+		text-decoration: none;
+
+	}
+
+.ah {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+
+}
+
+
+ul {
+list-style-type: none;
+margin-left:0;
+padding-left:0;
+display: flex;
+flex-wrap: wrap;
+justify-content: flex-end;
+align-items: flex-end;
+}
+.un {
+	margin-right: 10px;
+}
+#submit_button {
+	width: 100%;
+	display: flex;
+flex-wrap: wrap;
+}
+
+.mid {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+li {
+
+margin:10px;/* à adapter */
+
+}
+
+.footer-zone1 {
+	position: absolute; bottom: 0;
+	height:20px;
+
+
+
+}
+
+.footer {
+	position: absolute; bottom: 0;
+	height: 50px;
+	width: 100%;
+}
+
+body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	margin: 0px
+}
